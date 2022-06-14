@@ -25,4 +25,9 @@
  
 </div>
   
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/natalie1986/count.svg" /></p>
+
+
+![snake gif](https://github.com/natalie1986/natalie1986/blob/output/github-contribution-grid-snake.svg)
+  
  <!-- ![Snake animation](https://github.com/natalie1986/natalie1986/blob/output/github-contribution-grid-snake.svg) -->
