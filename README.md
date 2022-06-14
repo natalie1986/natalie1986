@@ -1,4 +1,7 @@
 ## Estudante de programação e tecnologia!
+
+![alien](https://user-images.githubusercontent.com/99296968/173693930-5311527c-e4c4-491c-bed2-81fe27447eaf.gif)
+
 <div align="center">
   <a href="https://github.com/natalie1986">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalie1986&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,5 +32,7 @@
 
 
 ![snake gif](https://github.com/natalie1986/natalie1986/blob/output/github-contribution-grid-snake.svg)
+  
+<!-- ![alien](https://user-images.githubusercontent.com/99296968/173693930-5311527c-e4c4-491c-bed2-81fe27447eaf.gif) -->
   
  <!-- ![Snake animation](https://github.com/natalie1986/natalie1986/blob/output/github-contribution-grid-snake.svg) -->
