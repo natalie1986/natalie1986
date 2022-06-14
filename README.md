@@ -11,7 +11,7 @@
   <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/JnAbjI4paXauuuHCeO/giphy.gif?cid=790b7611cd07345d1fd8c03f975ae01a94f7681c2a51cf4c&rid=giphy.gif&ct=g">
+  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/JnAbjI4paXauuuHCeO/giphy.gif?cid=790b7611cd07345d1fd8c03f975ae01a94f7681c2a51cf4c&rid=giphy.gif&ct=g">
 </div>
   
   ##
