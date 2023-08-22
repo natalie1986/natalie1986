@@ -12,9 +12,6 @@
 </div>
   
 
-   
-  <!-- <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/JnAbjI4paXauuuHCeO/giphy.gif?cid=790b7611cd07345d1fd8c03f975ae01a94f7681c2a51cf4c&rid=giphy.gif&ct=g"> -->
-
   
   ##
  
@@ -31,9 +28,3 @@
 
 
 ![snake gif](https://github.com/natalie1986/natalie1986/blob/output/github-contribution-grid-snake.svg)
-  
-<!-- ![alien](https://user-images.githubusercontent.com/99296968/173693930-5311527c-e4c4-491c-bed2-81fe27447eaf.gif) -->
-  
-<!-- ![alien](https://user-images.githubusercontent.com/99296968/173693930-5311527c-e4c4-491c-bed2-81fe27447eaf.gif) -->
-  
- <!-- ![Snake animation](https://github.com/natalie1986/natalie1986/blob/output/github-contribution-grid-snake.svg) -->
